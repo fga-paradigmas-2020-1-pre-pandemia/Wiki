@@ -1,0 +1,5 @@
+site_name: Paradigmas de Programação
+theme:
+    name: material
+nav:
+    - Home: "index.md"
